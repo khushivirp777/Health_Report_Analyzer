@@ -1,0 +1,101 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  h1, h2, h3, h4 {
+    margin: 0;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+    margin-top: 20px;
+  }
+  
+  p {
+    line-height: 1.5;
+    margin-bottom: 10px;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* About Us Section Styles */
+  .about-us {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .about-us img {
+    margin: 0 auto 20px auto;
+    border-radius: 5px;
+  }
+  
+  .values {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+  }
+  
+  .values li {
+    margin-bottom: 10px;
+  }
+  
+  /* Meet the Team Section Styles */
+  .meet-the-team {
+    padding: 20px;
+  }
+  
+  .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .team-member img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-right: 20px;
+  }
+  
+  .team-member h4 {
+    font-size: 1em;
+    margin-bottom: 5px;
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+  }
+  

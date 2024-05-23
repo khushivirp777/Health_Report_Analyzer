@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Add Patient Information</title>
+</head>
+<body>
+    <h2>Add Patient Information</h2>
+    <form action="patient_record.php" method="post">
+        Name: <input type="text" name="name"><br>
+        Age: <input type="number" name="age"><br>
+        Gender: 
+        <select name="gender">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+            <option value="Other">Other</option>
+        </select><br>
+        Contact Information: <input type="text" name="contact_info"><br>
+        <input type="submit" value="Add Patient">
+    </form>
+</body>
+</html>
