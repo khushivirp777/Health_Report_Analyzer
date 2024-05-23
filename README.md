@@ -7,6 +7,3 @@ The primary goal of the Health Report Analyzer is to automate the extraction and
 
 We are continuously working on improving the functionality and expanding the capabilities of this tool to make it a comprehensive solution for healthcare data analysis.
 
----
-
-Feel free to customize this paragraph further based on additional details or specific aspects of your project you'd like to highlight.
